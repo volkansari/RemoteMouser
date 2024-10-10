@@ -13,7 +13,7 @@ Bu proje, bir bilgisayarı uzaktan kontrol etmek için Qt ile geliştirilmiş bi
 ## Gereksinimler
 
 - Qt 6 veya üzeri
-- C++17 veya üzeri
+- C++11 veya üzeri
 - [Qt Creator](https://www.qt.io/product/developers) (geliştirme ortamı için)
 
 ## Kurulum
