@@ -2,11 +2,11 @@ Remote Mouse Qt Projesi
 Bu proje, bir bilgisayarı uzaktan kontrol etmek için Qt ile geliştirilmiş bir uygulamadır. Kullanıcılar, mobil cihazları veya başka bir bilgisayardan fare hareketlerini, tıklamaları ve klavye girdilerini gönderebilir.
 
 Özellikler
-Fare hareketlerini uzaktan kontrol etme
-Sol ve sağ tıklama desteği
-Klavye girdilerini gönderme
-Basit ve kullanıcı dostu arayüz
-Çok platformlu destek (Windows, macOS, Linux)
+  Fare hareketlerini uzaktan kontrol etme
+  Sol ve sağ tıklama desteği
+  Klavye girdilerini gönderme
+  Basit ve kullanıcı dostu arayüz
+  Çok platformlu destek (Windows, macOS, Linux)
 
 
 bash
